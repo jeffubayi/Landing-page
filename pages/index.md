@@ -11,7 +11,7 @@ encrypted_text: true
 permalink: /
 ---
 
-#  A BLOG ABOUT ETHICAL HACKING AND PENTESTING
+#  Cyber$cript
 
 ##  About
 Hello, welcome to my little corner of the web.
