@@ -2,7 +2,7 @@
 title: NerdUbeezy
 owner: "Jeff Ubayi"
 url: "https://nerdubeezy.netlify.app/"
-baseurl: "/pRoJEct-NeGYa"
+baseurl: "/landing-page"
 permalink: /:title/
 description: ""
 markdown: kramdown
