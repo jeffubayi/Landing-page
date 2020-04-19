@@ -16,14 +16,16 @@ permalink: /
 ##  About
 Hello, welcome to my little corner of the web.
 
-I like to figure out technology and experiment with it in ways many
-people never imagined.I also have a strong desire to share this information with
+I like to figure out technology and experiment with it in ways I
+never imagined.I also have a strong desire to share this information with
 others and to explain it to people whose only qualification may be the desire to learn.
 
 ```
-"The quiter you become, the more your able to listen. ~ #Linus Tovald
+"The quiter you become, 
+ the more your able to listen. 
+    ~ #Linus Tovald
 ```
-## HACKS
+## Hacks
 
 [**password_locker (Github)**](https://github.com/akiritsu/pRoJEct-NeGYa)
 
