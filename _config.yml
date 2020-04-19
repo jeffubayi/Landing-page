@@ -1,8 +1,8 @@
 ## Settings
 title: NerdUbeezy
 owner: "Jeff Ubayi"
-url: "https://nerdubeezy.netlify.app/"
-baseurl: "/landing-page"
+url: "https://akiritsu.github.io""
+baseurl: "/pRoJEct-NeGYa"
 permalink: /:title/
 description: ""
 markdown: kramdown
