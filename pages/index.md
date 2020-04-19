@@ -22,7 +22,7 @@ others and to explain it to people whose only qualification may be the desire to
 
 ## Hacks
 
-[**password_locker (Github)**](https://github.com/akiritsu/pRoJEct-NeGYa)
+[**Password_locker (Github)**](https://github.com/jeffubayi/Password-locker)
 
 
 ## Blog
