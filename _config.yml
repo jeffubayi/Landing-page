@@ -5,6 +5,7 @@ url: "https://akiritsu.github.io"
 baseurl: "/pRoJEct-NeGYa"
 permalink: /:title/
 description: ""
+base: "https://nerdubeezy.netlify.app/"
 markdown: kramdown
 webrick:
   headers:
