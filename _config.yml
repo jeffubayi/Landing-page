@@ -4,7 +4,7 @@ owner: "Jeff Ubayi"
 url: "https://akiritsu.github.io"
 baseurl: "/pRoJEct-NeGYa"
 permalink: /:title/
-description: ""
+description: "A blog about hacking"
 base: "https://nerdubeezy.netlify.app/"
 markdown: kramdown
 webrick:
