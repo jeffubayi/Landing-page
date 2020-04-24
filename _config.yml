@@ -1,11 +1,11 @@
 ## Settings
-title: NerdUbeezy
-owner: "Jeff Ubayi"
+title: jeff ubayi
+owner: "cyber$cript"
 url: "https://akiritsu.github.io"
 baseurl: "/pRoJEct-NeGYa"
 permalink: /:title/
 description: "A blog about hacking"
-base: "https://nerdubeezy.netlify.app/"
+base: "https://cyberscript.netlify.app/"
 markdown: kramdown
 webrick:
   headers:
@@ -15,7 +15,7 @@ email: "jeffubayi@gmail.com"
 github: "jeffubayi"
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
-statement: "Designed by Jeff Ubayi"
+statement: "Designed by nerdUbeezy"
 # default max toc levels: 1 - 6 (h1 - h6)
 toc_level: 3
 # texts randomly displayed in background
