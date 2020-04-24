@@ -54,10 +54,10 @@ intended user by bombarding your server with traffic.
 This is an attack in which communications between client and server are intercepted to
 steal passwords, account numbers, or any personal details.
 
----
-_The attacker will always try to find some loophole in the frontend to reach the server
+The attacker will always try to find some loophole in the frontend to reach the server
 and do his work. In this article, we will see some of the common best practices to always
-keep in mind while coding the frontend._
+keep in mind while coding the frontend.
+
 ---
 
 ##1. Strict UserInput(the First Point of Attack)
