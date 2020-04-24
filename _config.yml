@@ -12,7 +12,7 @@ webrick:
     Access-Control-Allow-Origin: "*"
 ## Global Variables
 email: "jeffubayi@gmail.com"
-github: "jeffubayi"
+github: "nerdubeezy"
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
 statement: "Designed by nerdUbeezy"
