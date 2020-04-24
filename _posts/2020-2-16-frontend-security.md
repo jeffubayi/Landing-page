@@ -49,12 +49,12 @@ become widespread.
 This is an attack in which malicious code in SQL statements are injected to destroy your
 database via input fields.
 
-## 5.Denial-of-service attack (DoS attack)
+## 5. Denial-of-service attack (DoS attack)
 
 This is an attack in which the server or its resources are made unavailable to the
 intended user by bombarding your server with traffic.
 
-## 6.Man in the middle attack or session hijacking
+## 6. Man in the middle attack or session hijacking
 
 This is an attack in which communications between client and server are intercepted to
 steal passwords, account numbers, or any personal details.
