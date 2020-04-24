@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Security tips for front-end Apps
-author: jeff ubayi
+author: jeff
 category: web security
 date: 2020-2-16
 ---
