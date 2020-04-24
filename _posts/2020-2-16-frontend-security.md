@@ -4,9 +4,9 @@ title: Security tips for front-end Apps
 author: jeff
 category: web security
 date: 2020-2-16
+excerpt: "This is excerpt."
+abstract: "Lock your app down and make it less subceptible to hackers."
 ---
-
-## Lock your app down and make it less subceptible to hackers.
 
 Whether you’re a React.js, Angular, Vue.js, or simply a front-end developer, your code
 can be an inviting door for hackers.
@@ -60,10 +60,11 @@ This is an attack in which communications between client and server are intercep
 steal passwords, account numbers, or any personal details.
 
 The attacker will always try to find some loophole in the frontend to reach the server
-and do his work. In this article, we will see some of the common best practices to always
-keep in mind while coding the frontend.
+and do his work.
 
 ---
+In this article, we will see some of the common best practices to always
+keep in mind while coding the frontend.
 
 ## 1. Strict UserInput(the First Point of Attack)
 
@@ -117,8 +118,8 @@ For example:
 Here the application trusts only the scripts coming from `apis.xyz.com` and ourselves
 ( `self `). For the rest of the sources, an error in the console is thrown.
 
-Note: A strong content security policy does not solve the problem of inline scripts
-execution, hence XSS attack is still valid.
+>Note: A strong content security policy does not solve the problem of inline scripts
+>execution, hence XSS attack is still valid.
 You can read a full list of CSP directives on the [MDN website.](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy)
 . . .
 
@@ -148,11 +149,11 @@ Keep an eye out for a new [Trusted Types specification](https://developers.googl
 In the case of react.js,` dangerouslySetInnerHTML` is unambiguous and cautionary and can
 have a similar impact as innerHTML .
 
-Note: Don't Set the innerHTML value-based on user input and use `textContent` instead of
-`innerHTML` as much as possible.
-Also, HTTP responses headers` Content-Type`and `X-Content-Type-Options` should be set
-properly, with their intended behavior. For example, JSON data should never be
-encoded as text/HTML, to prevent accidental execution.
+>Note: Don't Set the innerHTML value-based on user input and use `textContent` instead of
+>`innerHTML` as much as possible.
+>Also, HTTP responses headers` Content-Type`and `X-Content-Type-Options` should be set
+>properly, with their intended behavior. For example, JSON data should never be
+>encoded as text/HTML, to prevent accidental execution.
 . . .
 
 ## 6.Disable iframe Embedding
@@ -215,8 +216,8 @@ subdomains, like `https://public.example.com , https://users.example.com` and
 `https://admin.example.com` .
 This will ensure fewer client-side vulnerabilities.
 
-_Note: Proper compartmentalization would also prevent an XSS vulnerability in the public
-part of the application, preventing it from automatically compromising user information._
+>_Note: Proper compartmentalization would also prevent an XSS vulnerability in the public
+>part of the application, preventing it from automatically compromising user information._
 . . .
 
 ## 13.Avoid Third-Party Services
@@ -232,8 +233,8 @@ sure it hasn’t been tampered with.
 
 
 
-```
-<script  src= "https://example.com/example-framework.js" 
+```javascript
+<script src= "https://example.com/example-framework.js" 
        integrity="sha384-oqVuAfXRKap7fdgcCY5uykM6+R9GqQ8K/ux..."
        crossorigin= "anonymous" >
 </script>
@@ -252,4 +253,4 @@ Many of us aren’t even aware of what information their browser’s autofill ha
 Tip: Disable auto-filled forms for sensitive data.
 . . .
 
-Thanks, Happy Hacking
+Happy Hacking
