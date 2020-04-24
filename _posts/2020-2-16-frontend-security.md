@@ -6,9 +6,8 @@ category: web security
 date: 2020-2-16
 ---
 
-# Security tips for front-end apps
+# Lock your app down and make it less subceptible to hackers.
 
-Lock your app down and make it less subceptible to bad actors.
 Whether you’re a React.js, Angular, Vue.js, or simply a front-end developer, your code
 can be an inviting door for hackers.
 
