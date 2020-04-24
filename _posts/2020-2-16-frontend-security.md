@@ -234,7 +234,9 @@ sure it hasn’t been tampered with.
 
 
 ```javascript
-<script src= "https://example.com/example-framework.js" integrity="sha384-oqVuAfXRKap7fdgcCY5uykM6+R9GqQ8K/ux..." crossorigin= "anonymous" >
+<script src= "https://example.com/example-framework.js" 
+       integrity="sha384-oqVuAfXRKap7fdgcCY5uykM6+R9GqQ8K/ux..." 
+       crossorigin= "anonymous" >
 </script>
 ```
 
